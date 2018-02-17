@@ -1,0 +1,1106 @@
+@font-face{
+  font-family: dancingscript;
+    src:url("../fonts/DancingScript-Regular.otf")
+    
+    
+    
+    
+}
+
+
+
+    
+
+
+body{
+    
+    background-color: black;
+    font-family: dancingscript;
+    font-size: 1em;
+   
+    
+    
+    
+  
+    	
+    
+    
+    
+}
+
+
+.container {
+		width: 900px;
+		margin-left: auto;
+		margin-right: auto;
+  
+	}
+
+
+.contenedor2 {
+		
+		margin-left: auto;
+		margin-right: auto;
+    width: 100%;
+    height: 250px;
+  
+    display: flex;
+    flex-direction: row;
+    float: right;
+   
+	}
+
+.contenedor3 {
+		
+		margin-left: auto;
+		margin-right: auto;
+    width: 100%;
+    height: 250px;
+    
+
+    display: flex;
+    flex-direction: row;
+   
+    
+    
+   
+	}
+
+
+
+
+
+
+
+
+
+header{
+    
+    
+    width: 100%;
+    height: 100px;
+    background-color: #5b7989;
+    border-radius: 10px 10px 0 0;
+ 
+    font-family: dancingscript;
+   
+    
+ 
+     
+}
+
+tittle{
+    
+    
+    
+    color: white;
+    font-size: 30px;
+    float: left;
+    margin-top: 25px;
+   margin-left: 30px;
+    text-shadow: 0 2px 2px #02010a;
+ 
+}
+
+
+nav ul li {
+    
+    display: inline-block;
+
+    margin-top: 25px;
+    font-size: 32px;
+    margin-right: 20px;
+    float: right;
+ 
+    
+  
+   
+  }
+
+#inicio{
+    
+    text-decoration: underline;
+   margin-right: 15px;
+    color: white;
+   
+
+    font-size: 15px;
+  
+    
+    
+}
+#contenedor{
+    
+    
+    
+    margin: 0:auto;
+}
+
+
+#paisajes{
+    
+    
+    color: white;
+
+    font-size: 15px;
+    text-decoration: none;
+    margin-right: 20px;
+   
+}
+
+#retratos{
+    
+    color: white; 
+
+     font-size: 15px;
+   
+    
+}
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+section img{
+   height: 90%;
+   
+    padding: 23px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+   }
+
+
+
+
+.bloque1{
+    
+    color: black;
+    background-color: ;
+    width: 33.3%;
+    height: 300px;
+    border: 1px;
+        
+    
+    
+}
+
+
+
+
+.bloque2{
+    
+    color: black;
+    background-color: ;
+    width: 33.3%;
+    height: 300px;
+    border: 1px;
+    
+}
+
+.bloque25{
+    
+    color: black;
+    background-color: ;
+    width: 33.3%;
+    height: 300px;
+    border: 1px;
+    
+}
+
+
+
+
+
+.bloque10{
+    
+     color:brown;
+    background-color:;
+    width: 25%;
+    
+    height: 250px;
+    border: 1px;
+    
+    
+    
+}
+
+
+.bloque9{
+    
+     color:royalblue;
+    background-color:;
+    width: 25%;
+    height: 250px;
+    border: 1px;
+    
+    
+    
+}
+
+.bloque7{
+     color:orangered;
+    background-color:;
+    width: 25%;
+    height: 250px;
+    border: 1px;
+    
+    
+    
+}
+
+
+.bloque8{
+     color:aqua;
+    background-color:;
+    width: 25%;
+    height: 250px;
+    border: 1px;
+ 
+   
+    
+    
+    
+    
+    
+}
+
+
+
+
+
+.contenedor{
+     width: 100%;
+    height: 300px;
+    background-color: #d5c75f;
+    display: flex;
+    flex-direction: row-reverse;
+    
+ 
+    
+    
+    
+    
+}
+
+
+.piedepagina{
+    
+    width: 100%;
+    height: 250px;
+       
+    background-color: #C6d5c5;
+    color: #C6d5c5;
+    border-radius: 0 0 10px 10px;
+   
+   
+    display:flex;
+    flex-direction:row;
+    float: right;
+    margin-bottom: 15px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+   
+    
+}
+
+#bosque1{
+    
+height: 400px;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0;
+   
+    
+ 
+    box-shadow: 2px 2px;
+    
+    
+
+  
+   
+    
+}
+
+.cuadro1{
+    
+    
+    
+  
+  width: 33.3%;
+    height: 300px;
+ 
+   
+   
+    color: aqua;
+    background-color: ;
+    
+    
+    
+}
+
+
+
+.cuadro2{
+    
+    
+    
+  
+  width: 33.3%;
+    height: 300px;
+ 
+   
+   
+    color: red;
+    background-color: ;
+ 
+    
+    
+    
+}
+
+
+
+.cuadro3{
+    
+    
+    
+  
+  width: 33.3%;
+    height: 300px;
+ 
+   
+   
+    color: blue;
+    background-color: ;
+ 
+    
+    
+    
+}
+
+
+
+.cajatexto1{
+    
+    
+     color:green;
+    background-color:;
+    width: 80%;
+    height: 170px;
+    border: 1px;
+    margin-top: 40px;
+    margin-left: 27px; 
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+.cajatexto2{
+    
+    
+     color:green;
+    background-color:;
+    width: 180px;
+    height: 170px;
+    border: 1px;
+    margin-top: 40px;
+    margin-left: 27px; 
+    
+}
+
+
+.cajatexto3{
+    
+    
+     color:green;
+    background-color:;
+    width: 80%;
+    height: 170px;
+    border: 1px;
+    margin-top: 40px;
+    margin-left: 27px; 
+    
+}
+
+
+
+.cajatexto4{
+    
+    
+     color:teal;
+    background-color:;
+    width: 80%;
+    height: 170px;
+    border: 1px;
+    margin-top: 40px;
+    margin-left: 27px; 
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#bosque2{
+    
+  height: 70%;
+    margin-top:  30px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+   
+    
+}
+
+#bosque3{
+    
+  height: 70%;
+   
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 30px;
+    
+}
+
+.bloque{
+    
+   width: 100%;
+    height: 300px;
+    background-color:#d5c75f;
+    display: flex;
+    
+   
+    
+    
+}
+
+
+
+ .bloque1 img{
+    
+ transform: rotate();
+	transition-duration: 0.5s;
+     transition-property: border;
+	transition-duration: 0.5s;
+     padding: 0;
+     box-shadow: 2px 2px;
+     
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+h2{
+    
+    color: black;
+  
+    font-size: 35px;
+    text-align: left;
+    
+    
+}
+
+
+h3{
+    color: black;
+   
+    text-align: left;
+    
+    
+    
+    
+}
+
+h6{
+    
+    
+    font-size: 16px;
+     color: black;
+  
+    margin: 0;
+    text-align: left;
+    
+    
+   
+}
+
+
+ h4{
+    
+
+     color: black;
+   
+    text-align: left;
+     float: right;
+     margin: 0;
+         margin-top: 12px;
+       margin-right: 10px;
+    
+}
+
+h1{
+    
+
+   
+    font-size: 16px;
+    color: black;
+     text-align: left;
+    
+   
+ 
+   
+    
+    
+    
+}
+
+
+
+
+{
+    
+  color: black;
+   
+ display: inline;
+    float:center ;
+   
+    
+}
+
+
+
+#blur{
+      
+      height: 230px;
+        margin-top: 30px;
+      width: 260px;
+        -webkit-filter: blur(10px); 
+filter: blur(10px); 
+          box-shadow: 2px 2px black ;
+    
+    
+    
+}
+
+
+#escaladegrises{
+    height: 230px;
+        margin-top: 30px;
+      width: 260px;
+        -webkit-filter: blur(10px); 
+filter: grayscale(100%); 
+          box-shadow: 2px 2px black ;
+    
+    
+    
+}
+
+
+#sepia{
+    height: 230px;
+        margin-top: 30px;
+      width: 260px;
+        -webkit-filter: blur(10px); 
+filter: sepia(100%); 
+          box-shadow: 2px 2px black ;
+    
+    
+    
+}
+
+#color{
+    height: 230px;
+        margin-top: 30px;
+      width: 260px;
+  
+          box-shadow: 2px 2px black ;
+    
+    
+    
+}
+
+
+
+
+@media all and (max-width: 480px) {
+
+    .container{
+        width: 100%;
+        height: 100px;
+        text-align: center;
+       
+      
+      
+        
+    }
+
+
+header{
+    
+    
+    width: 100%;
+    height: 200px;
+    background-color: #5b7989;
+    border-radius: 10px 10px 0 0;
+   
+    
+ 
+     
+}
+
+#inicio{
+    
+    text-decoration: underline;
+  
+    color: white;
+   
+   
+
+    font-size: 15px;
+      margin-right: 15px;
+   
+    
+    
+}
+#paisajes{
+    
+   
+    color: white;
+   
+
+    font-size: 15px;
+    text-align: center;
+    text-decoration: none;
+}
+    
+    
+    #retratos{
+    
+    color: white; 
+
+     font-size: 15px;
+    text-align: center;
+        margin-right: 30px;
+      
+    
+}
+
+    
+    
+nav ul li {
+    
+
+ display: inline-block;
+
+    margin-top: 25px;
+    font-size: 32px;
+   
+   
+     justify-content: space-around;
+    margin-right: 38px;
+ 
+    
+ 
+  
+   
+  }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    #bosque1{
+        
+   height: 170px; 
+        width: 220px;
+        text-align: center;
+        
+    }  
+    
+    .bloque{
+         width: 100%;
+    height: 900px;
+    background-color: #d5c75f;
+       display: flex;
+    flex-direction: column;   
+        
+        
+    } 
+    
+     .contenedor{
+         width: 100%;
+    height: 900px;
+    background-color: #d5c75f;
+       display: flex;
+    flex-direction: column;   
+        
+        
+    } 
+    
+    
+ 
+    
+    .bloque1{
+    
+    color: black;
+    background-color: ;
+    width: 100%;
+    height: 300px;
+    border: 1px;
+        
+    
+    
+}
+
+
+.bloque2{
+    
+    color: black;
+    background-color: ;
+    width: 100%;
+    height: 300px;
+    border: 1px;
+    
+}
+
+  
+
+        
+      .piedepagina{
+    
+    width: 100%;
+    height: 750px;
+       
+    background-color: #C6d5c5;
+    color: #C6d5c5;
+    border-radius: 0 0 10px 10px;
+   
+   
+    display:flex;
+    flex-direction:column;
+          margin-bottom: 8px;
+  
+    
+}  
+        
+        
+    }
+
+
+
+
+
+
+.bloque3{
+    
+     color:;
+    background-color:;
+    width: 100%;
+    height: 250px;
+    border: 1px;
+    order:4;
+
+    
+    
+    
+}
+
+
+.bloque4{
+    
+     color:;
+    background-color:;
+    width: 100%;
+    height: 250px;
+    border: 1px;
+    order: 3;
+    
+    
+    
+}
+
+.bloque5{
+     color:;
+    background-color:;
+    width: 100%;
+    height: 250px;
+    border: 1px;
+    order: 2;
+    
+    
+    
+}
+
+
+.bloque6{
+     color:r;
+    background-color:;
+    width: 100%;
+    height: 250px;
+    border: 1px;
+    order: 1;
+ 
+   
+}
+
+
+
+h2{
+  color: black;
+   
+    font-size: 1.7em;  
+    
+}
+
+
+
+.cuadro1{
+    
+    
+   width:  100%;
+    
+}
+
+
+
+.cuadro2{
+    
+    
+   width:  100%;
+    
+}
+
+.cuadro3{
+    
+    
+   width:  100%;
+    
+}
+
+
+
+
+.bloque1{
+    
+   width: 100%;
+    
+    
+}
+
+
+
+
+.bloque2{
+    
+     width: 100%;
+    
+}
+
+.bloque25{
+    
+    width: 100%;
+}
+
+
+
+
+.bloque10{
+    
+     color:brown;
+    background-color:;
+    width: 100%;
+    
+    height: 250px;
+    border: 1px;
+    text-align: left;
+ 
+    
+    
+    
+}
+
+
+.bloque9{
+    
+     color:royalblue;
+    background-color:;
+    width: 100%;
+    height: 250px;
+    border: 1px;
+  
+    
+    
+    
+}
+
+.bloque7{
+     color:orangered;
+    background-color:;
+    width: 100%;
+    height: px;
+    border: 1px;
+  
+    
+    
+    
+}
+
+
+.bloque8{
+     color:aqua;
+    background-color:;
+    width: 100%;
+    height: 160px;
+    border: 1px;
+  
+ 
+  }
+
+
+
+.instagram{
+    
+    margin-left: 8px;
+    float: left;
+
+   
+}
+
+
+.facebook{
+    
+    float: left;
+
+  
+}
+
+
+h4{
+    
+
+
+    margin-top: 6px;
+    float: right;
+ 
+  
+    
+}
+
+.cajatexto3{
+    
+    
+     color:black;
+    background-color:;
+    width: 80%;
+    height: 170px;
+  
+  
+}
+
+
+.cajatexto1{
+    
+    
+     color:black;
+    background-color:;
+    width: 80%;
+    height: 120px;
+  
+  
+}
+
+
+
+.cajainstagram{
+    
+    width: 20px;
+    height: 20px;
+    color: yellow;
+    background-color: yellow;
+    
+    
+    
+}
+
+
+p{
+    
+    text-align: left;
+    font-weight: bold;
+    
+    
+}
+
+
